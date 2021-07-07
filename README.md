@@ -1,3 +1,8 @@
+### 食用方法
+'''
+git clone https://github.com/yoyobbs/WebStackPage.github.io.git && mv WebStackPage.github.io.git/* . && rm -rf WebStackPage.github.io.git
+'''
+
 Webstack网址导航
 ===
 ### Demo: [➡️ www.webstack.cc](https://webstack.cc)
