@@ -1,6 +1,6 @@
 ### 食用方法
 ```
-git clone https://github.com/yoyobbs/WebStackPage.github.io.git && mv WebStackPage.github.io.git/* . && rm -rf WebStackPage.github.io.git
+git clone https://github.com/yoyobbs/WebStackPage.github.io.git && mv WebStackPage.github.io/* . && rm -rf WebStackPage.github.io
 ```
 
 Webstack网址导航
